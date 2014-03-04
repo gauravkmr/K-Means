@@ -1,10 +1,4 @@
-/*
-Group Members:
-Gaurav Kumar	-	2011A7PS052G
-Ankur Jain		-	2011C6PS649G
-Anadi Rastogi	-	2011C6OS034G
 
-*/
 
 import java.io.IOException;
 import java.util.*;
